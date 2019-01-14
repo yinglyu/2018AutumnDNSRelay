@@ -2,7 +2,7 @@
 
 DNS Relay Server Program
 
-Environmnet: Python3.6
+Environmnet: Python2.7
 
 Example: 
 
