@@ -10,4 +10,4 @@ Example:
   
 Description:
 
-        python dnsrelay.py -[dd]d (Increase output detail.) -i [input_file]  -a [authority DNS IP]
+        python dnsrelay.py [-h] [-d] [-i INPUT_FILE] [-a AUTHORITY_DNS]
